@@ -1,0 +1,15 @@
+package package2;
+
+public class Forloop4 
+{
+
+	public static void main(String[] args) 
+	{
+		for(int i=-51;i<=51;i++) 
+		{
+			System.out.println(i);
+		}
+
+	}
+
+}
